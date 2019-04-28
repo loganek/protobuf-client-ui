@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "protobuf-client-ui", "protobuf-client-ui\protobuf-client-ui.csproj", "{C5D50751-D04C-4325-9754-3D795C656A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "protobuf-client-ui.Desktop", "protobuf-client-ui.Desktop\protobuf-client-ui.Desktop.csproj", "{F681DA75-0602-4D11-8643-72164C9CAF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D50751-D04C-4325-9754-3D795C656A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D50751-D04C-4325-9754-3D795C656A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D50751-D04C-4325-9754-3D795C656A6C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C5D50751-D04C-4325-9754-3D795C656A6C}.Debug|x86.Build.0 = Debug|Any CPU
+		{C5D50751-D04C-4325-9754-3D795C656A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D50751-D04C-4325-9754-3D795C656A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D50751-D04C-4325-9754-3D795C656A6C}.Release|x86.ActiveCfg = Release|Any CPU
+		{C5D50751-D04C-4325-9754-3D795C656A6C}.Release|x86.Build.0 = Release|Any CPU
+		{F681DA75-0602-4D11-8643-72164C9CAF7D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F681DA75-0602-4D11-8643-72164C9CAF7D}.Debug|Any CPU.Build.0 = Debug|x86
+		{F681DA75-0602-4D11-8643-72164C9CAF7D}.Debug|x86.ActiveCfg = Debug|x86
+		{F681DA75-0602-4D11-8643-72164C9CAF7D}.Debug|x86.Build.0 = Debug|x86
+		{F681DA75-0602-4D11-8643-72164C9CAF7D}.Release|Any CPU.ActiveCfg = Debug|x86
+		{F681DA75-0602-4D11-8643-72164C9CAF7D}.Release|Any CPU.Build.0 = Debug|x86
+		{F681DA75-0602-4D11-8643-72164C9CAF7D}.Release|x86.ActiveCfg = Release|x86
+		{F681DA75-0602-4D11-8643-72164C9CAF7D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
